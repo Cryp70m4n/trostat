@@ -1,4 +1,4 @@
-# trostat
+# Trostat
 Trostat is simple tool to get trovo user status
 
 <br>
