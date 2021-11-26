@@ -23,6 +23,7 @@ target= input("Enter target:")
 response = requests.post("https://open-api.trovo.live/openplatform/channels/id",headers={"Accept": "application/json","Client-ID": clinet_id},json={"username":target})
 
 
+#Check if request was valid
 if 400 == response.status_code :
     print("Error proceeding request")
     quit()
