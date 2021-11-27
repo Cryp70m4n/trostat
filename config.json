@@ -1,0 +1,22 @@
+{
+	"client_id": "your_id_here",
+
+	"banner_check" : true,
+
+	"target_check" : true,
+
+	"live_title_check": true,
+
+	"category_check": true,
+
+	"followers_check": true,
+
+	"current_viewers_check": true,
+
+	"subscriber_check": true,
+
+	"start_check": true,
+
+	"is_live_check": true
+
+}
